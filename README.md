@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou João Pedro 👋</h1>
 
-<!--
-**J0a0p3dr067/J0a0p3dr067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas no IFRN - Nova Cruz<br>
+  Apaixonado por desenvolvimento web, linguagens de programação e tecnologia.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre mim
+- 🎓 Atualmente no 2º período de TADS - IFRN
+- 💡 Interesse em: Java, C, HTML, CSS, Git e GitHub
+- 📚 Buscando aprimorar habilidades em front-end e algoritmos
+- 🚀 Em constante aprendizado e evolução
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📈 Estatísticas
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+### 📫 Contato
+- ✉️ Email: pjpedro150@gmail.com
+- 🌐 LinkedIn: [Seu LinkedIn aqui](https://www.linkedin.com)
+
