@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 Sobre mim
-- 🎓 Atualmente no 2º período de TADS - IFRN
+- 🎓 Atualmente no 3º período de TADS - IFRN
 - 💡 Interesse em: Java, C, HTML, CSS, Git e GitHub
 - 📚 Buscando aprimorar habilidades em front-end e algoritmos
 - 🚀 Em constante aprendizado e evolução
@@ -27,13 +27,13 @@
 
 ### 📈 Estatísticas
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=J0a0p3dr067&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0a0p3dr067&layout=compact&theme=tokyonight" />
 </div>
 
 ---
 
 ### 📫 Contato
 - ✉️ Email: pjpedro150@gmail.com
-- 🌐 LinkedIn: [Seu LinkedIn aqui](https://www.linkedin.com)
+- 🌐 LinkedIn: [João Pedro](https://www.linkedin.com/in/joão-pedro-69384b335/)
 
