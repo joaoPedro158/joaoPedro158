@@ -11,7 +11,7 @@
 - 🎓 Atualmente no 3º período de TADS - IFRN
 - 💡 Interesse em: Java, C, HTML, CSS, Git e GitHub
 - 📚 Buscando aprimorar habilidades em front-end e algoritmos
-- 🚀 Em constante aprendizado e evolução
+- 🚀 Atualmente aprendendo JavaScript
 
 ---
 
