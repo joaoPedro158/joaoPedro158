@@ -39,13 +39,14 @@
 
 ### 📫 Contato
 - ✉️ Email: pjpedro150@gmail.com
-- 🌐 LinkedIn: [João Pedro](https://www.linkedin.com/in/joão-pedro-69384b335/)
+- 🌐 LinkedIn: [João Pedro](https://www.linkedin.com/in/joão-pedro-69384b335/) 
 
 ---
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J0a0p3dr067/J0a0p3dr067/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/J0a0p3dr067/j0a0p3dr067/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/J0a0p3dr067/J0a0p3dr067/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/J0a0p3dr067/J0a0p3dr067/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/J0a0p3dr067/J0a0p3dr067/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://github.com/J0a0p3dr067/J0a0p3dr067/blob/output/github-contribution-grid-snake.svg" />
 </picture>
+
