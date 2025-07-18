@@ -27,8 +27,8 @@
 
 ### 📈 Estatísticas
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=J0a0p3dr067&show_icons=true&theme=holi" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0a0p3dr067&theme=holi" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=joaoPedro158&show_icons=true&theme=holi" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoPedro158&theme=holi" />
 </div>
 
 ---
@@ -44,8 +44,8 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/J0a0p3dr067/J0a0p3dr067/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/J0a0p3dr067/J0a0p3dr067/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/joaoPedro158/joaoPedro158/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/joaoPedro158/joaoPedro158/blob/output/github-contribution-grid-snake.svg" />
   <img alt="Snake animation" src="https://github.com/J0a0p3dr067/J0a0p3dr067/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
