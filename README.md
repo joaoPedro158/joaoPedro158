@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:584DD3,100:00694C&height=220&section=header&text=Olá,%20eu%20sou%20João%20Pedro%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20ADS%20no%20IFRN%20-%20Nova%20Cruz&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:584DD3,100:00694C&height=220&section=header&text=Olá,%20eu%20sou%20João%20Pedro&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20ADS%20no%20IFRN%20-%20Nova%20Cruz&descAlignY=58&descSize=18" width="100%"/>
 
 <p>
   Apaixonado por desenvolvimento web, linguagens de programação e tecnologia.
@@ -10,27 +10,27 @@
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
-**🖥️ Linguagens**
+**Linguagens**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**⚙️ Frameworks & Backend**
+**Frameworks & Backend**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**🗄️ Banco de Dados**
+**Banco de Dados**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**🔧 Ferramentas**
+**Ferramentas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -38,12 +38,12 @@
 
 ---
 
-### 🚀 Projetos em Destaque
+### Projetos em Destaque
 
 <table>
   <tr>
     <td width="65%" colspan="2">
-      <h3>🧪 SmartNose-Web — Projeto Atlas II</h3>
+      <h3>SmartNose-Web — Projeto Atlas II</h3>
       <p>
         Sistema web para <strong>visualização e monitoramento de processos fermentativos</strong>,
         desenvolvido no âmbito do Projeto Atlas II no IFRN. Utiliza um "nariz eletrônico" com
@@ -57,9 +57,9 @@
         <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
       </p>
       <p>
-        🏆 Selecionado pelo programa <strong>Catalisa ICT (SEBRAE)</strong><br>
-        🎤 Apresentado na <strong>SECITEX 2025</strong><br>
-        📜 Software registrado como propriedade intelectual do IFRN — <strong>Termo 10/2026</strong>
+        Selecionado pelo programa <strong>Catalisa ICT (SEBRAE)</strong><br>
+        Apresentado na <strong>SECITEX 2025</strong><br>
+        Software registrado como propriedade intelectual do IFRN — <strong>Termo 10/2026</strong>
       </p>
     </td>
     <td width="35%" align="center">
@@ -70,7 +70,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>🤝 <a href="https://github.com/joaoPedro158/ConectLar" target="_blank">ConectLar</a></h3>
+      <h3><a href="https://github.com/joaoPedro158/ConectLar" target="_blank">ConectLar</a></h3>
       <p>
         Projeto desenvolvido em equipe que consiste em uma interface/plataforma criada para aproximar contratantes e profissionais prestadores de trabalhos manuais.
       </p>
@@ -81,7 +81,7 @@
       </p>
     </td>
     <td width="50%" colspan="2">
-      <h3>🛒 <a href="https://github.com/joaoPedro158/Bazary" target="_blank">Bazary</a></h3>
+      <h3><a href="https://github.com/joaoPedro158/Bazary" target="_blank">Bazary</a></h3>
       <p>
         Uma plataforma de e-commerce completa. Este foi o meu primeiro projeto prático desenvolvido utilizando o framework Laravel.
       </p>
@@ -95,7 +95,7 @@
   </tr>
   <tr>
     <td colspan="3">
-      <h3>🗣️ <a href="https://github.com/joaoPedro158/EscutaIF" target="_blank">EscutaIF</a></h3>
+      <h3><a href="https://github.com/joaoPedro158/EscutaIF" target="_blank">EscutaIF</a></h3>
       <p>
         Plataforma desenvolvida para atuar como um canal seguro de denúncias e comunicação, com foco no acolhimento e na promoção do bem-estar emocional da comunidade acadêmica.
       </p>
@@ -111,10 +111,10 @@
 
 ---
 
-### 📫 Contato
+### Contato
 
-- ✉️ Email: pjpedro150@gmail.com
-- 🌐 LinkedIn: [João Pedro](https://www.linkedin.com/in/joão-pedro-69384b335/)
+- Email: pjpedro150@gmail.com
+- LinkedIn: [João Pedro](https://www.linkedin.com/in/joão-pedro-69384b335/)
 
 ---
 
